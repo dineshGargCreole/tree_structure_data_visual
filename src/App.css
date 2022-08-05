@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.node__root > circle {
+  fill: red;
+}
+
+.node__branch > circle {
+  fill: yellow;
+}
